@@ -4,7 +4,7 @@
 }
 body {
   height: 100vh;
-  background: url("bg.jpg") no-repeat;
+  background: url("./images/bg.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed; /* 백그라운드를 fixed 하고 싶을 때*/
 }
@@ -40,7 +40,7 @@ body {
 .overwatch__character {
   width: 100%;
   height: 100%;
-  background: url("hero1.png") no-repeat center;
+  background: url("./images/hero1.png") no-repeat center;
   background-size: 100px 100px;
   /* background에서 -14도 기울였으니 반대로 14도 기울어야 바로 선다 */
   transform: skewX(14deg);
@@ -54,126 +54,126 @@ body {
 }
 
 .b {
-  background: url("hero2.png") no-repeat center;
+  background: url("./images/hero2.png") no-repeat center;
   background-size: 100px 100px;
 }
 .c {
-  background: url("hero3.png") no-repeat center;
+  background: url("./images/hero3.png") no-repeat center;
   background-size: 100px 100px;
 }
 .d {
-  background: url("hero4.png") no-repeat center;
+  background: url("./images/hero4.png") no-repeat center;
   background-size: 100px 100px;
 }
 .e {
-  background: url("hero5.png") no-repeat center;
+  background: url("./images/hero5.png") no-repeat center;
   background-size: 100px 100px;
 }
 .f {
-  background: url("hero6.png") no-repeat center;
+  background: url("./images/hero6.png") no-repeat center;
   background-size: 100px 100px;
 }
 .g {
-  background: url("hero7.png") no-repeat center;
+  background: url("./images/hero7.png") no-repeat center;
   background-size: 100px 100px;
 }
 .h {
-  background: url("hero8.png") no-repeat center;
+  background: url("./images/hero8.png") no-repeat center;
   background-size: 100px 100px;
 }
 .i {
-  background: url("hero9.png") no-repeat center;
+  background: url("./images/hero9.png") no-repeat center;
   background-size: 100px 100px;
 }
 .j {
-  background: url("hero10.png") no-repeat center;
+  background: url("./images/hero10.png") no-repeat center;
   background-size: 100px 100px;
 }
 .k {
-  background: url("hero11.png") no-repeat center;
+  background: url("./images/hero11.png") no-repeat center;
   background-size: 100px 100px;
 }
 .l {
-  background: url("hero12.png") no-repeat center;
+  background: url("./images/hero12.png") no-repeat center;
   background-size: 100px 100px;
 }
 .n {
-  background: url("hero13.png") no-repeat center;
+  background: url("./images/hero13.png") no-repeat center;
   background-size: 100px 100px;
 }
 .m {
-  background: url("hero32.png") no-repeat center;
+  background: url("./images/hero32.png") no-repeat center;
   background-size: 100px 100px;
 }
 .o {
-  background: url("hero14.png") no-repeat center;
+  background: url("./images/hero14.png") no-repeat center;
   background-size: 100px 100px;
 }
 .p {
-  background: url("hero15.png") no-repeat center;
+  background: url("./images/hero15.png") no-repeat center;
   background-size: 100px 100px;
 }
 .q {
-  background: url("hero16.png") no-repeat center;
+  background: url("./images/hero16.png") no-repeat center;
   background-size: 100px 100px;
 }
 .r {
-  background: url("hero17.png") no-repeat center;
+  background: url("./images/hero17.png") no-repeat center;
   background-size: 100px 100px;
 }
 .s {
-  background: url("hero18.png") no-repeat center;
+  background: url("./images/hero18.png") no-repeat center;
   background-size: 100px 100px;
 }
 .t {
-  background: url("hero19.png") no-repeat center;
+  background: url("./images/hero19.png") no-repeat center;
   background-size: 100px 100px;
 }
 .u {
-  background: url("hero20.png") no-repeat center;
+  background: url("./images/hero20.png") no-repeat center;
   background-size: 100px 100px;
 }
 .v {
-  background: url("hero21.png") no-repeat center;
+  background: url("./images/hero21.png") no-repeat center;
   background-size: 100px 100px;
 }
 .w {
-  background: url("hero22.png") no-repeat center;
+  background: url("./images/hero22.png") no-repeat center;
   background-size: 100px 100px;
 }
 .x {
-  background: url("hero23.png") no-repeat center;
+  background: url("./images/hero23.png") no-repeat center;
   background-size: 100px 100px;
 }
 .y {
-  background: url("hero24.png") no-repeat center;
+  background: url("./images/hero24.png") no-repeat center;
   background-size: 100px 100px;
 }
 .z {
-  background: url("hero25.png") no-repeat center;
+  background: url("./images/hero25.png") no-repeat center;
   background-size: 100px 100px;
 }
 .aa {
-  background: url("hero26.png") no-repeat center;
+  background: url("./images/hero26.png") no-repeat center;
   background-size: 100px 100px;
 }
 .bb {
-  background: url("hero27.png") no-repeat center;
+  background: url("./images/hero27.png") no-repeat center;
   background-size: 100px 100px;
 }
 .cc {
-  background: url("hero28.png") no-repeat center;
+  background: url("./images/hero28.png") no-repeat center;
   background-size: 100px 100px;
 }
 .dd {
-  background: url("hero29.png") no-repeat center;
+  background: url("./images/hero29.png") no-repeat center;
   background-size: 100px 100px;
 }
 .ee {
-  background: url("hero30.png") no-repeat center;
+  background: url("./images/hero30.png") no-repeat center;
   background-size: 100px 100px;
 }
 .ff {
-  background: url("hero31.png") no-repeat center;
+  background: url("./images/hero31.png") no-repeat center;
   background-size: 100px 100px;
 }
